@@ -1,0 +1,3362 @@
+[
+  {
+    "id": 0,
+    "link": "https://monster-sanctuary.fandom.com/wiki/1000_Leaves_(Ultimate)",
+    "name": "1000 Leaves",
+    "passive": true
+  },
+  {
+    "id": 1,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Acid_Hurricane_(Ultimate)",
+    "name": "Acid Hurricane",
+    "passive": true
+  },
+  {
+    "id": 2,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Acid_Rain_(Skill)",
+    "name": "Acid Rain",
+    "passive": false
+  },
+  {
+    "id": 3,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Acid_Spit_(Passive)",
+    "name": "Acid Spit",
+    "passive": true
+  },
+  {
+    "id": 4,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Acid_Tempest_(Skill)",
+    "name": "Acid Tempest",
+    "passive": false
+  },
+  {
+    "id": 5,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Adaptive_Evolution_(Passive)",
+    "name": "Adaptive Evolution",
+    "passive": true
+  },
+  {
+    "id": 6,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Aeons_(Passive)",
+    "name": "Aeons",
+    "passive": true
+  },
+  {
+    "id": 7,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Aerial_Maneuvers_(Passive)",
+    "name": "Aerial Maneuvers",
+    "passive": true
+  },
+  {
+    "id": 8,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Aerial_Strike_(Skill)",
+    "name": "Aerial Strike",
+    "passive": false
+  },
+  {
+    "id": 9,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Age_of_Purification_(Passive)",
+    "name": "Age of Purification",
+    "passive": true
+  },
+  {
+    "id": 10,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Agility_(Skill)",
+    "name": "Agility",
+    "passive": false
+  },
+  {
+    "id": 11,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Aging_(Passive)",
+    "name": "Aging",
+    "passive": true
+  },
+  {
+    "id": 12,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Air_Sickle_(Skill)",
+    "name": "Air Sickle",
+    "passive": false
+  },
+  {
+    "id": 13,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Anti_Curse_(Passive)",
+    "name": "Anti Curse",
+    "passive": true
+  },
+  {
+    "id": 14,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Antipode_(Passive)",
+    "name": "Antipode",
+    "passive": true
+  },
+  {
+    "id": 15,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Antitoxins_(Passive)",
+    "name": "Antitoxins",
+    "passive": true
+  },
+  {
+    "id": 16,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Apprentice_(Skill)",
+    "name": "Apprentice",
+    "passive": false
+  },
+  {
+    "id": 17,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Aqua_Blast_(Skill)",
+    "name": "Aqua Blast",
+    "passive": false
+  },
+  {
+    "id": 18,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Aquatic_Predator_(Passive)",
+    "name": "Aquatic Predator",
+    "passive": true
+  },
+  {
+    "id": 19,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Arcane_Barrage_(Ultimate)",
+    "name": "Arcane Barrage",
+    "passive": true
+  },
+  {
+    "id": 20,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Arcane_Bolt_(Skill)",
+    "name": "Arcane Bolt",
+    "passive": false
+  },
+  {
+    "id": 21,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Arcane_Diffusion_(Skill)",
+    "name": "Arcane Diffusion",
+    "passive": false
+  },
+  {
+    "id": 22,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Arcane_Obliteration_(Ultimate)",
+    "name": "Arcane Obliteration",
+    "passive": true
+  },
+  {
+    "id": 23,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Arcane_Shield_(Skill)",
+    "name": "Arcane Shield",
+    "passive": false
+  },
+  {
+    "id": 24,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Armor_Bypass_(Passive)",
+    "name": "Armor Bypass",
+    "passive": true
+  },
+  {
+    "id": 25,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Armor_Crush_(Passive)",
+    "name": "Armor Crush",
+    "passive": true
+  },
+  {
+    "id": 26,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Armor_Shred_(Passive)",
+    "name": "Armor Shred",
+    "passive": true
+  },
+  {
+    "id": 27,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Armor_Up_(Ultimate)",
+    "name": "Armor Up",
+    "passive": true
+  },
+  {
+    "id": 28,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Armory_(Passive)",
+    "name": "Armory",
+    "passive": true
+  },
+  {
+    "id": 29,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Assistance_(Passive)",
+    "name": "Assistance",
+    "passive": true
+  },
+  {
+    "id": 30,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Attack_Mastery_(Passive)",
+    "name": "Attack Mastery",
+    "passive": true
+  },
+  {
+    "id": 31,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Attack_Plus_(Passive)",
+    "name": "Attack Plus",
+    "passive": true
+  },
+  {
+    "id": 32,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Cascade_(Passive)",
+    "name": "Cascade",
+    "passive": true
+  },
+  {
+    "id": 33,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Attack_Powered_Shield_(Passive)",
+    "name": "Attack Powered Shield",
+    "passive": true
+  },
+  {
+    "id": 34,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Attack_Proc_(Passive)",
+    "name": "Attack Proc",
+    "passive": true
+  },
+  {
+    "id": 35,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Aurora%27s_Shield_(Ultimate)",
+    "name": "Aurora's Shield",
+    "passive": true
+  },
+  {
+    "id": 36,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Auto_Heal_(Passive)",
+    "name": "Auto Heal",
+    "passive": true
+  },
+  {
+    "id": 37,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Auto_Restore_(Passive)",
+    "name": "Auto Restore",
+    "passive": true
+  },
+  {
+    "id": 38,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Avalanche_(Skill)",
+    "name": "Avalanche",
+    "passive": false
+  },
+  {
+    "id": 39,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Backstab_(Passive)",
+    "name": "Backstab",
+    "passive": true
+  },
+  {
+    "id": 40,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ball_Lightning_(Ultimate)",
+    "name": "Ball Lightning",
+    "passive": true
+  },
+  {
+    "id": 41,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ballistics_(Passive)",
+    "name": "Ballistics",
+    "passive": true
+  },
+  {
+    "id": 42,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Barricade_(Passive)",
+    "name": "Barricade",
+    "passive": true
+  },
+  {
+    "id": 43,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Barrier_(Skill)",
+    "name": "Barrier",
+    "passive": false
+  },
+  {
+    "id": 44,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Basic_Attack_(Skill)",
+    "name": "Basic Attack",
+    "passive": false
+  },
+  {
+    "id": 45,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Beating_(Skill)",
+    "name": "Beating",
+    "passive": false
+  },
+  {
+    "id": 46,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Berserk_(Passive)",
+    "name": "Berserk",
+    "passive": true
+  },
+  {
+    "id": 47,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Bite_(Skill)",
+    "name": "Bite",
+    "passive": false
+  },
+  {
+    "id": 48,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Bleed_(Passive)",
+    "name": "Bleed",
+    "passive": true
+  },
+  {
+    "id": 49,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Blessed_Strikes_(Skill)",
+    "name": "Blessed Strikes",
+    "passive": false
+  },
+  {
+    "id": 50,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Blessing_(Skill)",
+    "name": "Blessing",
+    "passive": false
+  },
+  {
+    "id": 51,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Blinding_Sunlight_(Passive)",
+    "name": "Blinding Sunlight",
+    "passive": true
+  },
+  {
+    "id": 52,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Blizzard_(Ultimate)",
+    "name": "Blizzard",
+    "passive": true
+  },
+  {
+    "id": 53,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Blood_Drive_(Passive)",
+    "name": "Blood Drive",
+    "passive": true
+  },
+  {
+    "id": 54,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Blood_Magic_(Passive)",
+    "name": "Blood Magic",
+    "passive": true
+  },
+  {
+    "id": 55,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Bolster_(Passive)",
+    "name": "Bolster",
+    "passive": true
+  },
+  {
+    "id": 56,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Boulder_Toss_(Ultimate)",
+    "name": "Boulder Toss",
+    "passive": true
+  },
+  {
+    "id": 57,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Bounty_(Passive)",
+    "name": "Bounty",
+    "passive": true
+  },
+  {
+    "id": 58,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Brains_over_Brawn_(Passive)",
+    "name": "Brains over Brawn",
+    "passive": true
+  },
+  {
+    "id": 59,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Brawler_(Passive)",
+    "name": "Brawler",
+    "passive": true
+  },
+  {
+    "id": 60,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Brawn_over_Brains_(Passive)",
+    "name": "Brawn over Brains",
+    "passive": true
+  },
+  {
+    "id": 61,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Breaking_Spells_(Passive)",
+    "name": "Breaking Spells",
+    "passive": true
+  },
+  {
+    "id": 62,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Broken_Immunity_(Passive)",
+    "name": "Broken Immunity",
+    "passive": true
+  },
+  {
+    "id": 63,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Bubble_Burst_(Skill)",
+    "name": "Bubble Burst",
+    "passive": false
+  },
+  {
+    "id": 64,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Bubble_Deluge_(Ultimate)",
+    "name": "Bubble Deluge",
+    "passive": true
+  },
+  {
+    "id": 65,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Buff_Catalyst_(Passive)",
+    "name": "Buff Catalyst",
+    "passive": true
+  },
+  {
+    "id": 66,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Buff_Celebration_(Passive)",
+    "name": "Buff Celebration",
+    "passive": true
+  },
+  {
+    "id": 67,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Buff_Charging_(Passive)",
+    "name": "Buff Charging",
+    "passive": true
+  },
+  {
+    "id": 68,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Buff_Steal_(Passive)",
+    "name": "Buff Steal",
+    "passive": true
+  },
+  {
+    "id": 69,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Buffing_Heal_(Passive)",
+    "name": "Buffing Heal",
+    "passive": true
+  },
+  {
+    "id": 70,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Buffing_Restore_(Passive)",
+    "name": "Buffing Restore",
+    "passive": true
+  },
+  {
+    "id": 71,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Buffing_Shield_(Passive)",
+    "name": "Buffing Shield",
+    "passive": true
+  },
+  {
+    "id": 72,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Burn_Down_(Passive)",
+    "name": "Burn Down",
+    "passive": true
+  },
+  {
+    "id": 73,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Burning_Desire_(Passive)",
+    "name": "Burning Desire",
+    "passive": true
+  },
+  {
+    "id": 74,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Burning_Heat_(Passive)",
+    "name": "Burning Heat",
+    "passive": true
+  },
+  {
+    "id": 75,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Burrow_(Skill)",
+    "name": "Burrow",
+    "passive": false
+  },
+  {
+    "id": 76,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Carapace_(Passive)",
+    "name": "Carapace",
+    "passive": true
+  },
+  {
+    "id": 77,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Carnage_(Ultimate)",
+    "name": "Carnage",
+    "passive": true
+  },
+  {
+    "id": 78,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Cataclysm_(Ultimate)",
+    "name": "Cataclysm",
+    "passive": true
+  },
+  {
+    "id": 79,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Cave_Dwellers_(Passive)",
+    "name": "Cave Dwellers",
+    "passive": true
+  },
+  {
+    "id": 80,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Center_of_Mass_(Passive)",
+    "name": "Center of Mass",
+    "passive": true
+  },
+  {
+    "id": 81,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Chain_Lightning_(Passive)",
+    "name": "Chain Lightning",
+    "passive": true
+  },
+  {
+    "id": 82,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Chain_Reaction_(Passive)",
+    "name": "Chain Reaction",
+    "passive": true
+  },
+  {
+    "id": 83,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Channel_(Skill)",
+    "name": "Channel",
+    "passive": false
+  },
+  {
+    "id": 84,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Channeled_Heal_(Ultimate)",
+    "name": "Channeled Heal",
+    "passive": true
+  },
+  {
+    "id": 85,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Channeling_Balance_(Passive)",
+    "name": "Channeling Balance",
+    "passive": true
+  },
+  {
+    "id": 86,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Channeling_Support_(Passive)",
+    "name": "Channeling Support",
+    "passive": true
+  },
+  {
+    "id": 87,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Charge_Amplifier_(Passive)",
+    "name": "Charge Amplifier",
+    "passive": true
+  },
+  {
+    "id": 88,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Charge_Beam_(Skill)",
+    "name": "Charge Beam",
+    "passive": false
+  },
+  {
+    "id": 89,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Charged_Healing_(Passive)",
+    "name": "Charged Healing",
+    "passive": true
+  },
+  {
+    "id": 90,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Charged_Rebirth_(Passive)",
+    "name": "Charged Rebirth",
+    "passive": true
+  },
+  {
+    "id": 91,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Charged_Start_(Passive)",
+    "name": "Charged Start",
+    "passive": true
+  },
+  {
+    "id": 92,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Charging_Shield_(Passive)",
+    "name": "Charging Shield",
+    "passive": true
+  },
+  {
+    "id": 93,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Chilling_Cold_(Passive)",
+    "name": "Chilling Cold",
+    "passive": true
+  },
+  {
+    "id": 94,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Chilling_Wind_(Skill)",
+    "name": "Chilling Wind",
+    "passive": false
+  },
+  {
+    "id": 95,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Claws_(Skill)",
+    "name": "Claws",
+    "passive": false
+  },
+  {
+    "id": 96,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Cleanse_(Passive)",
+    "name": "Cleanse",
+    "passive": true
+  },
+  {
+    "id": 97,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Cleansing_Flame_(Skill)",
+    "name": "Cleansing Flame",
+    "passive": false
+  },
+  {
+    "id": 98,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Cleansing_Sidekick_(Passive)",
+    "name": "Cleansing Sidekick",
+    "passive": true
+  },
+  {
+    "id": 99,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Coal_Toss_(Skill)",
+    "name": "Coal Toss",
+    "passive": false
+  },
+  {
+    "id": 100,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Combat_Guard_(Passive)",
+    "name": "Combat Guard",
+    "passive": true
+  },
+  {
+    "id": 101,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Combo_Buffing_(Passive)",
+    "name": "Combo Buffing",
+    "passive": true
+  },
+  {
+    "id": 102,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Combo_Healing_(Passive)",
+    "name": "Combo Healing",
+    "passive": true
+  },
+  {
+    "id": 103,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Combo_Initiator_(Passive)",
+    "name": "Combo Initiator",
+    "passive": true
+  },
+  {
+    "id": 104,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Combo_Shielding_(Passive)",
+    "name": "Combo Shielding",
+    "passive": true
+  },
+  {
+    "id": 105,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Combocast_(Skill)",
+    "name": "Combocast",
+    "passive": false
+  },
+  {
+    "id": 106,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Concealed_(Passive)",
+    "name": "Concealed",
+    "passive": true
+  },
+  {
+    "id": 107,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Congeal_(Passive)",
+    "name": "Congeal",
+    "passive": true
+  },
+  {
+    "id": 108,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Cooling_(Passive)",
+    "name": "Cooling",
+    "passive": true
+  },
+  {
+    "id": 109,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Copy_Shield_(Passive)",
+    "name": "Copy Shield",
+    "passive": true
+  },
+  {
+    "id": 110,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Corrosion_(Passive)",
+    "name": "Corrosion",
+    "passive": true
+  },
+  {
+    "id": 111,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Corrosive_Assault_(Ultimate)",
+    "name": "Corrosive Assault",
+    "passive": true
+  },
+  {
+    "id": 112,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Corrosive_Blast_(Skill)",
+    "name": "Corrosive Blast",
+    "passive": false
+  },
+  {
+    "id": 113,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Corrosive_Jabs_(Skill)",
+    "name": "Corrosive Jabs",
+    "passive": false
+  },
+  {
+    "id": 114,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Counterfeit_(Skill)",
+    "name": "Counterfeit",
+    "passive": false
+  },
+  {
+    "id": 115,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Crit_Chance_Focus_(Passive)",
+    "name": "Crit Chance Focus",
+    "passive": true
+  },
+  {
+    "id": 116,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Crit_Chance_Plus_(Passive)",
+    "name": "Crit Chance Plus",
+    "passive": true
+  },
+  {
+    "id": 117,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Crit_Damage_Focus_(Passive)",
+    "name": "Crit Damage Focus",
+    "passive": true
+  },
+  {
+    "id": 118,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Crit_Damage_Plus_(Passive)",
+    "name": "Crit Damage Plus",
+    "passive": true
+  },
+  {
+    "id": 119,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Base_(Passive)",
+    "name": "Critical Base",
+    "passive": true
+  },
+  {
+    "id": 120,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Boon_(Passive)",
+    "name": "Critical Boon",
+    "passive": true
+  },
+  {
+    "id": 121,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Break_(Passive)",
+    "name": "Critical Break",
+    "passive": true
+  },
+  {
+    "id": 122,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Buffs_(Passive)",
+    "name": "Critical Buffs",
+    "passive": true
+  },
+  {
+    "id": 123,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Consistency_(Passive)",
+    "name": "Critical Consistency",
+    "passive": true
+  },
+  {
+    "id": 124,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Current_(Passive)",
+    "name": "Critical Current",
+    "passive": true
+  },
+  {
+    "id": 125,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Defense_(Passive)",
+    "name": "Critical Defense",
+    "passive": true
+  },
+  {
+    "id": 126,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Edge_(Passive)",
+    "name": "Critical Edge",
+    "passive": true
+  },
+  {
+    "id": 127,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Essence_(Passive)",
+    "name": "Critical Essence",
+    "passive": true
+  },
+  {
+    "id": 128,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Exploit_(Passive)",
+    "name": "Critical Exploit",
+    "passive": true
+  },
+  {
+    "id": 129,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Flames_(Passive)",
+    "name": "Critical Flames",
+    "passive": true
+  },
+  {
+    "id": 130,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Freeze_(Passive)",
+    "name": "Critical Freeze",
+    "passive": true
+  },
+  {
+    "id": 131,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Ground_(Passive)",
+    "name": "Critical Ground",
+    "passive": true
+  },
+  {
+    "id": 132,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Healing_(Passive)",
+    "name": "Critical Healing",
+    "passive": true
+  },
+  {
+    "id": 133,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Heat_(Passive)",
+    "name": "Critical Heat",
+    "passive": true
+  },
+  {
+    "id": 134,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Hybridization_(Passive)",
+    "name": "Critical Hybridization",
+    "passive": true
+  },
+  {
+    "id": 135,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Liquid_(Passive)",
+    "name": "Critical Liquid",
+    "passive": true
+  },
+  {
+    "id": 136,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Mass_(Passive)",
+    "name": "Critical Mass",
+    "passive": true
+  },
+  {
+    "id": 137,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Poison_(Passive)",
+    "name": "Critical Poison",
+    "passive": true
+  },
+  {
+    "id": 138,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Critical_Sorcery_(Passive)",
+    "name": "Critical Sorcery",
+    "passive": true
+  },
+  {
+    "id": 139,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Curse_of_Weakness_(Passive)",
+    "name": "Curse of Weakness",
+    "passive": true
+  },
+  {
+    "id": 140,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Curse_Transfusion_(Passive)",
+    "name": "Curse Transfusion",
+    "passive": true
+  },
+  {
+    "id": 141,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Cyclone_(Skill)",
+    "name": "Cyclone",
+    "passive": false
+  },
+  {
+    "id": 142,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Dark_Shroud_(Ultimate)",
+    "name": "Dark Shroud",
+    "passive": true
+  },
+  {
+    "id": 143,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Darken_(Passive)",
+    "name": "Darken",
+    "passive": true
+  },
+  {
+    "id": 144,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Death_Blow_(Passive)",
+    "name": "Death Blow",
+    "passive": true
+  },
+  {
+    "id": 145,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Deep_Freeze_(Skill)",
+    "name": "Deep Freeze",
+    "passive": false
+  },
+  {
+    "id": 146,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Deep_Wounds_(Passive)",
+    "name": "Deep Wounds",
+    "passive": true
+  },
+  {
+    "id": 147,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Defense_Focus_(Passive)",
+    "name": "Defense Focus",
+    "passive": true
+  },
+  {
+    "id": 148,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Defense_Healing_(Passive)",
+    "name": "Defense Healing",
+    "passive": true
+  },
+  {
+    "id": 149,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Defense_Overload_(Passive)",
+    "name": "Defense Overload",
+    "passive": true
+  },
+  {
+    "id": 150,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Defense_Plus_(Passive)",
+    "name": "Defense Plus",
+    "passive": true
+  },
+  {
+    "id": 151,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Defense_Proc_(Passive)",
+    "name": "Defense Proc",
+    "passive": true
+  },
+  {
+    "id": 152,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Defensive_Presence_(Passive)",
+    "name": "Defensive Presence",
+    "passive": true
+  },
+  {
+    "id": 153,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Demonic_Theft_(Passive)",
+    "name": "Demonic Theft",
+    "passive": true
+  },
+  {
+    "id": 154,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Demotivate_(Passive)",
+    "name": "Demotivate",
+    "passive": true
+  },
+  {
+    "id": 155,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Devour_(Passive)",
+    "name": "Devour",
+    "passive": true
+  },
+  {
+    "id": 156,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Dexterity_(Skill)",
+    "name": "Dexterity",
+    "passive": false
+  },
+  {
+    "id": 157,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Disease_Control_(Passive)",
+    "name": "Disease Control",
+    "passive": true
+  },
+  {
+    "id": 158,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Disoriented_(Passive)",
+    "name": "Disoriented",
+    "passive": true
+  },
+  {
+    "id": 159,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Dodging_(Passive)",
+    "name": "Dodging",
+    "passive": true
+  },
+  {
+    "id": 160,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Dominance_(Passive)",
+    "name": "Dominance",
+    "passive": true
+  },
+  {
+    "id": 161,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Double_Impact_(Passive)",
+    "name": "Double Impact",
+    "passive": true
+  },
+  {
+    "id": 162,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Double_Strike_(Passive)",
+    "name": "Double Strike",
+    "passive": true
+  },
+  {
+    "id": 163,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Dragon_Blood_(Passive)",
+    "name": "Dragon Blood",
+    "passive": true
+  },
+  {
+    "id": 164,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Dragon_Mastery_(Passive)",
+    "name": "Dragon Mastery",
+    "passive": true
+  },
+  {
+    "id": 165,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Dragonskin_(Skill)",
+    "name": "Dragonskin",
+    "passive": false
+  },
+  {
+    "id": 166,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Duality_(Passive)",
+    "name": "Duality",
+    "passive": true
+  },
+  {
+    "id": 167,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Earth_Affinity_(Passive)",
+    "name": "Earth Affinity",
+    "passive": true
+  },
+  {
+    "id": 168,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Earthquake_(Skill)",
+    "name": "Earthquake",
+    "passive": false
+  },
+  {
+    "id": 169,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Electric_Field_(Passive)",
+    "name": "Electric Field",
+    "passive": true
+  },
+  {
+    "id": 170,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Electric_Surge_(Ultimate)",
+    "name": "Electric Surge",
+    "passive": true
+  },
+  {
+    "id": 171,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Electrify_(Passive)",
+    "name": "Electrify",
+    "passive": true
+  },
+  {
+    "id": 172,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Electrocute_(Ultimate)",
+    "name": "Electrocute",
+    "passive": true
+  },
+  {
+    "id": 173,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Electrolytes_(Passive)",
+    "name": "Electrolytes",
+    "passive": true
+  },
+  {
+    "id": 174,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Elemental_Break_(Passive)",
+    "name": "Elemental Break",
+    "passive": true
+  },
+  {
+    "id": 175,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Elemental_Strikes_(Ultimate)",
+    "name": "Elemental Strikes",
+    "passive": true
+  },
+  {
+    "id": 176,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Emergency_Channel_(Passive)",
+    "name": "Emergency Channel",
+    "passive": true
+  },
+  {
+    "id": 177,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Empower_(Passive)",
+    "name": "Empower",
+    "passive": true
+  },
+  {
+    "id": 178,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Encapsulate_(Skill)",
+    "name": "Encapsulate",
+    "passive": false
+  },
+  {
+    "id": 179,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Enchantment_(Skill)",
+    "name": "Enchantment",
+    "passive": false
+  },
+  {
+    "id": 180,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Energize_(Passive)",
+    "name": "Energize",
+    "passive": true
+  },
+  {
+    "id": 181,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Energy_Conversion_(Passive)",
+    "name": "Energy Conversion",
+    "passive": true
+  },
+  {
+    "id": 182,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Enlighten_(Skill)",
+    "name": "Enlighten",
+    "passive": false
+  },
+  {
+    "id": 183,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Evasion_(Passive)",
+    "name": "Evasion",
+    "passive": true
+  },
+  {
+    "id": 184,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Exploit_(Passive)",
+    "name": "Exploit",
+    "passive": true
+  },
+  {
+    "id": 185,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Exploit_Party_(Passive)",
+    "name": "Exploit Party",
+    "passive": true
+  },
+  {
+    "id": 186,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Explosion_(Skill)",
+    "name": "Explosion",
+    "passive": false
+  },
+  {
+    "id": 187,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Explosive_Blast_(Skill)",
+    "name": "Explosive Blast",
+    "passive": false
+  },
+  {
+    "id": 188,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Exposed_(Passive)",
+    "name": "Exposed",
+    "passive": true
+  },
+  {
+    "id": 189,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Extra_Channel_(Passive)",
+    "name": "Extra Channel",
+    "passive": true
+  },
+  {
+    "id": 190,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fatal_Cut_(Ultimate)",
+    "name": "Fatal Cut",
+    "passive": true
+  },
+  {
+    "id": 191,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fatal_Upkeep_(Passive)",
+    "name": "Fatal Upkeep",
+    "passive": true
+  },
+  {
+    "id": 192,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Feast_(Passive)",
+    "name": "Feast",
+    "passive": true
+  },
+  {
+    "id": 193,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Feather_Storm_(Skill)",
+    "name": "Feather Storm",
+    "passive": false
+  },
+  {
+    "id": 194,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fiery_Punches_(Skill)",
+    "name": "Fiery Punches",
+    "passive": false
+  },
+  {
+    "id": 195,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fiery_Shots_(Skill)",
+    "name": "Fiery Shots",
+    "passive": false
+  },
+  {
+    "id": 196,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fiery_Stabs_(Skill)",
+    "name": "Fiery Stabs",
+    "passive": false
+  },
+  {
+    "id": 197,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fire_Affinity_(Passive)",
+    "name": "Fire Affinity",
+    "passive": true
+  },
+  {
+    "id": 198,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fire_Breath_(Ultimate)",
+    "name": "Fire Breath",
+    "passive": true
+  },
+  {
+    "id": 199,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fire_Pillar_(Ultimate)",
+    "name": "Fire Pillar",
+    "passive": true
+  },
+  {
+    "id": 200,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fire_Shield_(Skill)",
+    "name": "Fire Shield",
+    "passive": false
+  },
+  {
+    "id": 201,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fireball_(Skill)",
+    "name": "Fireball",
+    "passive": false
+  },
+  {
+    "id": 202,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fireball_Storm_(Skill)",
+    "name": "Fireball Storm",
+    "passive": false
+  },
+  {
+    "id": 203,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fireclaws_(Skill)",
+    "name": "Fireclaws",
+    "passive": false
+  },
+  {
+    "id": 204,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Firestorm_(Skill)",
+    "name": "Firestorm",
+    "passive": false
+  },
+  {
+    "id": 205,
+    "link": "https://monster-sanctuary.fandom.com/wiki/First_Impact_(Passive)",
+    "name": "First Impact",
+    "passive": true
+  },
+  {
+    "id": 206,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fish_Scales_(Passive)",
+    "name": "Fish Scales",
+    "passive": true
+  },
+  {
+    "id": 207,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Flamestrike_(Skill)",
+    "name": "Flamestrike",
+    "passive": false
+  },
+  {
+    "id": 208,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Flash_Freeze_(Passive)",
+    "name": "Flash Freeze",
+    "passive": true
+  },
+  {
+    "id": 209,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Flurry_of_Blows_(Skill)",
+    "name": "Flurry of Blows",
+    "passive": false
+  },
+  {
+    "id": 210,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Force_of_Nature_(Ultimate)",
+    "name": "Force of Nature",
+    "passive": true
+  },
+  {
+    "id": 211,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Forceful_Might_(Passive)",
+    "name": "Forceful Might",
+    "passive": true
+  },
+  {
+    "id": 212,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Forceful_Sorcery_(Passive)",
+    "name": "Forceful Sorcery",
+    "passive": true
+  },
+  {
+    "id": 213,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Forge_(Skill)",
+    "name": "Forge",
+    "passive": false
+  },
+  {
+    "id": 214,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fortress_(Ultimate)",
+    "name": "Fortress",
+    "passive": true
+  },
+  {
+    "id": 215,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Freeze_(Skill)",
+    "name": "Freeze",
+    "passive": false
+  },
+  {
+    "id": 216,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Freezing_Punches_(Skill)",
+    "name": "Freezing Punches",
+    "passive": false
+  },
+  {
+    "id": 217,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Frost_Pierce_(Ultimate)",
+    "name": "Frost Pierce",
+    "passive": true
+  },
+  {
+    "id": 218,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Frostbite_(Passive)",
+    "name": "Frostbite",
+    "passive": true
+  },
+  {
+    "id": 219,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Fuel_(Passive)",
+    "name": "Fuel",
+    "passive": true
+  },
+  {
+    "id": 220,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Full_Aerial_Assault_(Ultimate)",
+    "name": "Full Aerial Assault",
+    "passive": true
+  },
+  {
+    "id": 221,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Full_Defense_(Skill)",
+    "name": "Full Defense",
+    "passive": false
+  },
+  {
+    "id": 222,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Full_Heal_(Ultimate)",
+    "name": "Full Heal",
+    "passive": true
+  },
+  {
+    "id": 223,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Full_Offense_(Skill)",
+    "name": "Full Offense",
+    "passive": false
+  },
+  {
+    "id": 224,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Full_Potential_(Ultimate)",
+    "name": "Full Potential",
+    "passive": true
+  },
+  {
+    "id": 225,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Full_Protect_(Skill)",
+    "name": "Full Protect",
+    "passive": false
+  },
+  {
+    "id": 226,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Full_Restore_(Ultimate)",
+    "name": "Full Restore",
+    "passive": true
+  },
+  {
+    "id": 227,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Full_Utility_(Skill)",
+    "name": "Full Utility",
+    "passive": false
+  },
+  {
+    "id": 228,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Gale_(Skill)",
+    "name": "Gale",
+    "passive": false
+  },
+  {
+    "id": 229,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Gemstone_Barrage_(Ultimate)",
+    "name": "Gemstone Barrage",
+    "passive": true
+  },
+  {
+    "id": 230,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Gemstone_Rain_(Skill)",
+    "name": "Gemstone Rain",
+    "passive": false
+  },
+  {
+    "id": 231,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Giantsbane_(Passive)",
+    "name": "Giantsbane",
+    "passive": true
+  },
+  {
+    "id": 232,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Gift_of_Life_(Ultimate)",
+    "name": "Gift of Life",
+    "passive": true
+  },
+  {
+    "id": 233,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Gigadrill_(Ultimate)",
+    "name": "Gigadrill",
+    "passive": true
+  },
+  {
+    "id": 234,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Glare_(Passive)",
+    "name": "Glare",
+    "passive": true
+  },
+  {
+    "id": 235,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Glitter_(Passive)",
+    "name": "Glitter",
+    "passive": true
+  },
+  {
+    "id": 236,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Glory_(Skill)",
+    "name": "Glory",
+    "passive": false
+  },
+  {
+    "id": 237,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Glorycast_(Skill)",
+    "name": "Glorycast",
+    "passive": false
+  },
+  {
+    "id": 238,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Goblin_Defense_(Passive)",
+    "name": "Goblin Defense",
+    "passive": true
+  },
+  {
+    "id": 239,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Goblin_Offense_(Passive)",
+    "name": "Goblin Offense",
+    "passive": true
+  },
+  {
+    "id": 240,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Goblin_Provisions_(Passive)",
+    "name": "Goblin Provisions",
+    "passive": true
+  },
+  {
+    "id": 241,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Goblin_Recovery_(Passive)",
+    "name": "Goblin Recovery",
+    "passive": true
+  },
+  {
+    "id": 242,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Goblin_Science_(Passive)",
+    "name": "Goblin Science",
+    "passive": true
+  },
+  {
+    "id": 243,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Goblin_Smith_(Passive)",
+    "name": "Goblin Smith",
+    "passive": true
+  },
+  {
+    "id": 244,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Godly_Strikes_(Ultimate)",
+    "name": "Godly Strikes",
+    "passive": true
+  },
+  {
+    "id": 245,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Gold_Sense_(Passive)",
+    "name": "Gold Sense",
+    "passive": true
+  },
+  {
+    "id": 246,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Golden_Age_(Passive)",
+    "name": "Golden Age",
+    "passive": true
+  },
+  {
+    "id": 247,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Gravity_(Ultimate)",
+    "name": "Gravity",
+    "passive": true
+  },
+  {
+    "id": 248,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hades_(Ultimate)",
+    "name": "Hades",
+    "passive": true
+  },
+  {
+    "id": 249,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hard_Shell_(Passive)",
+    "name": "Hard Shell",
+    "passive": true
+  },
+  {
+    "id": 250,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Heal_(Skill)",
+    "name": "Heal",
+    "passive": false
+  },
+  {
+    "id": 251,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Heal_Mastery_(Passive)",
+    "name": "Heal Mastery",
+    "passive": true
+  },
+  {
+    "id": 252,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Healing_Link_(Passive)",
+    "name": "Healing Link",
+    "passive": true
+  },
+  {
+    "id": 253,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Healing_Shield_(Passive)",
+    "name": "Healing Shield",
+    "passive": true
+  },
+  {
+    "id": 254,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Healing_Wave_(Skill)",
+    "name": "Healing Wave",
+    "passive": false
+  },
+  {
+    "id": 255,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Health_Focus_(Passive)",
+    "name": "Health Focus",
+    "passive": true
+  },
+  {
+    "id": 256,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Health_Plus_(Passive)",
+    "name": "Health Plus",
+    "passive": true
+  },
+  {
+    "id": 257,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Health_Proc_(Passive)",
+    "name": "Health Proc",
+    "passive": true
+  },
+  {
+    "id": 258,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Heat_Shimmer_(Skill)",
+    "name": "Heat Shimmer",
+    "passive": false
+  },
+  {
+    "id": 259,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Heavy_Punch_(Skill)",
+    "name": "Heavy Punch",
+    "passive": false
+  },
+  {
+    "id": 260,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Helping_Hand_(Skill)",
+    "name": "Helping Hand",
+    "passive": false
+  },
+  {
+    "id": 261,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Heroic_Defense_(Passive)",
+    "name": "Heroic Defense",
+    "passive": true
+  },
+  {
+    "id": 262,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Heroic_Party_(Passive)",
+    "name": "Heroic Party",
+    "passive": true
+  },
+  {
+    "id": 263,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Heroism_(Passive)",
+    "name": "Heroism",
+    "passive": true
+  },
+  {
+    "id": 264,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hex_(Passive)",
+    "name": "Hex",
+    "passive": true
+  },
+  {
+    "id": 265,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hexed_Touch_(Passive)",
+    "name": "Hexed Touch",
+    "passive": true
+  },
+  {
+    "id": 266,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hexing_Support_(Passive)",
+    "name": "Hexing Support",
+    "passive": true
+  },
+  {
+    "id": 267,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hibernate_(Passive)",
+    "name": "Hibernate",
+    "passive": true
+  },
+  {
+    "id": 268,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hunt_(Passive)",
+    "name": "Hunt",
+    "passive": true
+  },
+  {
+    "id": 269,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hybrid_Mastery_(Passive)",
+    "name": "Hybrid Mastery",
+    "passive": true
+  },
+  {
+    "id": 270,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Hybrid_Shield_(Passive)",
+    "name": "Hybrid Shield",
+    "passive": true
+  },
+  {
+    "id": 271,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ice_Bolt_(Skill)",
+    "name": "Ice Bolt",
+    "passive": false
+  },
+  {
+    "id": 272,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ice_Breath_(Ultimate)",
+    "name": "Ice Breath",
+    "passive": true
+  },
+  {
+    "id": 273,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ice_Hail_(Skill)",
+    "name": "Ice Hail",
+    "passive": false
+  },
+  {
+    "id": 274,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ice_Shield_(Skill)",
+    "name": "Ice Shield",
+    "passive": false
+  },
+  {
+    "id": 275,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ice_Spear_Barrage_(Ultimate)",
+    "name": "Ice Spear Barrage",
+    "passive": true
+  },
+  {
+    "id": 276,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ice_Spear_Volley_(Skill)",
+    "name": "Ice Spear Volley",
+    "passive": false
+  },
+  {
+    "id": 277,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ice_Spears_(Skill)",
+    "name": "Ice Spears",
+    "passive": false
+  },
+  {
+    "id": 278,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ice_Storm_(Skill)",
+    "name": "Ice Storm",
+    "passive": false
+  },
+  {
+    "id": 279,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Iceclaws_(Skill)",
+    "name": "Iceclaws",
+    "passive": false
+  },
+  {
+    "id": 280,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Icy_Shots_(Skill)",
+    "name": "Icy Shots",
+    "passive": false
+  },
+  {
+    "id": 281,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Icy_Skin_(Passive)",
+    "name": "Icy Skin",
+    "passive": true
+  },
+  {
+    "id": 282,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ignite_(Skill)",
+    "name": "Ignite",
+    "passive": false
+  },
+  {
+    "id": 283,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Igniting_Gas_(Passive)",
+    "name": "Igniting Gas",
+    "passive": true
+  },
+  {
+    "id": 284,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Igniting_Stings_(Skill)",
+    "name": "Igniting Stings",
+    "passive": false
+  },
+  {
+    "id": 285,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Imitate_(Skill)",
+    "name": "Imitate",
+    "passive": false
+  },
+  {
+    "id": 286,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Impactful_Shock_(Passive)",
+    "name": "Impactful Shock",
+    "passive": true
+  },
+  {
+    "id": 287,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Improved_Assault_(Passive)",
+    "name": "Improved Assault",
+    "passive": true
+  },
+  {
+    "id": 288,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Improved_Barrier_(Passive)",
+    "name": "Improved Barrier",
+    "passive": true
+  },
+  {
+    "id": 289,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Improved_Glory_(Passive)",
+    "name": "Improved Glory",
+    "passive": true
+  },
+  {
+    "id": 290,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Improved_Mana_Regeneration_(Passive)",
+    "name": "Improved Mana Regeneration",
+    "passive": true
+  },
+  {
+    "id": 291,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Improved_Regeneration_(Passive)",
+    "name": "Improved Regeneration",
+    "passive": true
+  },
+  {
+    "id": 292,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Improved_Sidekick_(Passive)",
+    "name": "Improved Sidekick",
+    "passive": true
+  },
+  {
+    "id": 293,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Incinerate_(Passive)",
+    "name": "Incinerate",
+    "passive": true
+  },
+  {
+    "id": 294,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Inferno_(Ultimate)",
+    "name": "Inferno",
+    "passive": true
+  },
+  {
+    "id": 295,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Initial_Armor_Break_(Passive)",
+    "name": "Initial Armor Break",
+    "passive": true
+  },
+  {
+    "id": 296,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Initial_Burn_(Passive)",
+    "name": "Initial Burn",
+    "passive": true
+  },
+  {
+    "id": 297,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Initial_Chill_(Passive)",
+    "name": "Initial Chill",
+    "passive": true
+  },
+  {
+    "id": 298,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Initial_Darkness_(Passive)",
+    "name": "Initial Darkness",
+    "passive": true
+  },
+  {
+    "id": 299,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Initial_Poison_(Passive)",
+    "name": "Initial Poison",
+    "passive": true
+  },
+  {
+    "id": 300,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Initial_Shock_(Passive)",
+    "name": "Initial Shock",
+    "passive": true
+  },
+  {
+    "id": 301,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Initial_Weakness_(Passive)",
+    "name": "Initial Weakness",
+    "passive": true
+  },
+  {
+    "id": 302,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Insect_Charge_(Passive)",
+    "name": "Insect Charge",
+    "passive": true
+  },
+  {
+    "id": 303,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Intelligent_Swarm_(Passive)",
+    "name": "Intelligent Swarm",
+    "passive": true
+  },
+  {
+    "id": 304,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ion_Beam_(Ultimate)",
+    "name": "Ion Beam",
+    "passive": true
+  },
+  {
+    "id": 305,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Jewel_Blast_(Skill)",
+    "name": "Jewel Blast",
+    "passive": false
+  },
+  {
+    "id": 306,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Jolly_Spirit_(Passive)",
+    "name": "Jolly Spirit",
+    "passive": true
+  },
+  {
+    "id": 307,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Joust_(Skill)",
+    "name": "Joust",
+    "passive": false
+  },
+  {
+    "id": 308,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Killing_Dance_(Passive)",
+    "name": "Killing Dance",
+    "passive": true
+  },
+  {
+    "id": 309,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Kindle_(Passive)",
+    "name": "Kindle",
+    "passive": true
+  },
+  {
+    "id": 310,
+    "link": "https://monster-sanctuary.fandom.com/wiki/King_of_Beasts_(Passive)",
+    "name": "King of Beasts",
+    "passive": true
+  },
+  {
+    "id": 311,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lava_Rush_(Skill)",
+    "name": "Lava Rush",
+    "passive": false
+  },
+  {
+    "id": 312,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lava_Stream_(Ultimate)",
+    "name": "Lava Stream",
+    "passive": true
+  },
+  {
+    "id": 313,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lava_Wave_(Skill)",
+    "name": "Lava Wave",
+    "passive": false
+  },
+  {
+    "id": 314,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Leaf_Slash_(Skill)",
+    "name": "Leaf Slash",
+    "passive": false
+  },
+  {
+    "id": 315,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Legion_(Ultimate)",
+    "name": "Legion",
+    "passive": true
+  },
+  {
+    "id": 316,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Life_Overload_(Passive)",
+    "name": "Life Overload",
+    "passive": true
+  },
+  {
+    "id": 317,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Life_Stability_(Passive)",
+    "name": "Life Stability",
+    "passive": true
+  },
+  {
+    "id": 318,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Life_Wave_(Skill)",
+    "name": "Life Wave",
+    "passive": false
+  },
+  {
+    "id": 319,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lifechannel_(Skill)",
+    "name": "Lifechannel",
+    "passive": false
+  },
+  {
+    "id": 320,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lifeline_(Skill)",
+    "name": "Lifeline",
+    "passive": false
+  },
+  {
+    "id": 321,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lifesteal_(Passive)",
+    "name": "Lifesteal",
+    "passive": true
+  },
+  {
+    "id": 322,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lightning_Assault_(Skill)",
+    "name": "Lightning Assault",
+    "passive": false
+  },
+  {
+    "id": 323,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lightning_Bolt_(Skill)",
+    "name": "Lightning Bolt",
+    "passive": false
+  },
+  {
+    "id": 324,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lightning_Punches_(Skill)",
+    "name": "Lightning Punches",
+    "passive": false
+  },
+  {
+    "id": 325,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lightning_Slash_(Skill)",
+    "name": "Lightning Slash",
+    "passive": false
+  },
+  {
+    "id": 326,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Long_Slash_(Skill)",
+    "name": "Long Slash",
+    "passive": false
+  },
+  {
+    "id": 327,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lord_of_the_Deep_(Passive)",
+    "name": "Lord of the Deep",
+    "passive": true
+  },
+  {
+    "id": 328,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Lucky_Hit_(Passive)",
+    "name": "Lucky Hit",
+    "passive": true
+  },
+  {
+    "id": 329,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Magic_Attack_(Passive)",
+    "name": "Magic Attack",
+    "passive": true
+  },
+  {
+    "id": 330,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Magic_Barrier_(Passive)",
+    "name": "Magic Barrier",
+    "passive": true
+  },
+  {
+    "id": 331,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Magic_Penetration_(Passive)",
+    "name": "Magic Penetration",
+    "passive": true
+  },
+  {
+    "id": 332,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Magic_Plus_(Passive)",
+    "name": "Magic Plus",
+    "passive": true
+  },
+  {
+    "id": 333,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Magic_Powered_Shield_(Passive)",
+    "name": "Magic Powered Shield",
+    "passive": true
+  },
+  {
+    "id": 334,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Magic_Proc_(Passive)",
+    "name": "Magic Proc",
+    "passive": true
+  },
+  {
+    "id": 335,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Magnetize_(Passive)",
+    "name": "Magnetize",
+    "passive": true
+  },
+  {
+    "id": 336,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Bolster_(Passive)",
+    "name": "Mana Bolster",
+    "passive": true
+  },
+  {
+    "id": 337,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Buffer_(Passive)",
+    "name": "Mana Buffer",
+    "passive": true
+  },
+  {
+    "id": 338,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Burn_(Passive)",
+    "name": "Mana Burn",
+    "passive": true
+  },
+  {
+    "id": 339,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Charging_(Passive)",
+    "name": "Mana Charging",
+    "passive": true
+  },
+  {
+    "id": 340,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Focus_(Passive)",
+    "name": "Mana Focus",
+    "passive": true
+  },
+  {
+    "id": 341,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Generator_(Passive)",
+    "name": "Mana Generator",
+    "passive": true
+  },
+  {
+    "id": 342,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Overload_(Passive)",
+    "name": "Mana Overload",
+    "passive": true
+  },
+  {
+    "id": 343,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Plus_(Passive)",
+    "name": "Mana Plus",
+    "passive": true
+  },
+  {
+    "id": 344,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Proc_(Passive)",
+    "name": "Mana Proc",
+    "passive": true
+  },
+  {
+    "id": 345,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Shielding_(Passive)",
+    "name": "Mana Shielding",
+    "passive": true
+  },
+  {
+    "id": 346,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Stability_(Passive)",
+    "name": "Mana Stability",
+    "passive": true
+  },
+  {
+    "id": 347,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Symbiosis_(Passive)",
+    "name": "Mana Symbiosis",
+    "passive": true
+  },
+  {
+    "id": 348,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Syphon_(Passive)",
+    "name": "Mana Syphon",
+    "passive": true
+  },
+  {
+    "id": 349,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mana_Upkeep_(Passive)",
+    "name": "Mana Upkeep",
+    "passive": true
+  },
+  {
+    "id": 350,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Martial_Prowess_(Passive)",
+    "name": "Martial Prowess",
+    "passive": true
+  },
+  {
+    "id": 351,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mass_Protector_(Passive)",
+    "name": "Mass Protector",
+    "passive": true
+  },
+  {
+    "id": 352,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mass_Restore_(Skill)",
+    "name": "Mass Restore",
+    "passive": false
+  },
+  {
+    "id": 353,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Master_of_Time_(Passive)",
+    "name": "Master of Time",
+    "passive": true
+  },
+  {
+    "id": 354,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Meditation_(Passive)",
+    "name": "Meditation",
+    "passive": true
+  },
+  {
+    "id": 355,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mega_Protect_(Ultimate)",
+    "name": "Mega Protect",
+    "passive": true
+  },
+  {
+    "id": 356,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mega_Restore_(Ultimate)",
+    "name": "Mega Restore",
+    "passive": true
+  },
+  {
+    "id": 357,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mentor_(Passive)",
+    "name": "Mentor",
+    "passive": true
+  },
+  {
+    "id": 358,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Meteorite_Shower_(Ultimate)",
+    "name": "Meteorite Shower",
+    "passive": true
+  },
+  {
+    "id": 359,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Might_(Skill)",
+    "name": "Might",
+    "passive": false
+  },
+  {
+    "id": 360,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Miracle_(Skill)",
+    "name": "Miracle",
+    "passive": false
+  },
+  {
+    "id": 361,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mud_Cannon_(Skill)",
+    "name": "Mud Cannon",
+    "passive": false
+  },
+  {
+    "id": 362,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Armor_Break_(Passive)",
+    "name": "Multi Armor Break",
+    "passive": true
+  },
+  {
+    "id": 363,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Barrier_(Passive)",
+    "name": "Multi Barrier",
+    "passive": true
+  },
+  {
+    "id": 364,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Burn_(Passive)",
+    "name": "Multi Burn",
+    "passive": true
+  },
+  {
+    "id": 365,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Channel_(Passive)",
+    "name": "Multi Channel",
+    "passive": true
+  },
+  {
+    "id": 366,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Chill_(Passive)",
+    "name": "Multi Chill",
+    "passive": true
+  },
+  {
+    "id": 367,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Glory_(Passive)",
+    "name": "Multi Glory",
+    "passive": true
+  },
+  {
+    "id": 368,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Might_(Passive)",
+    "name": "Multi Might",
+    "passive": true
+  },
+  {
+    "id": 369,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Poison_(Passive)",
+    "name": "Multi Poison",
+    "passive": true
+  },
+  {
+    "id": 370,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Regeneration_(Passive)",
+    "name": "Multi Regeneration",
+    "passive": true
+  },
+  {
+    "id": 371,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Shock_(Passive)",
+    "name": "Multi Shock",
+    "passive": true
+  },
+  {
+    "id": 372,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Sidekick_(Passive)",
+    "name": "Multi Sidekick",
+    "passive": true
+  },
+  {
+    "id": 373,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Sorcery_(Passive)",
+    "name": "Multi Sorcery",
+    "passive": true
+  },
+  {
+    "id": 374,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Multi_Weakness_(Passive)",
+    "name": "Multi Weakness",
+    "passive": true
+  },
+  {
+    "id": 375,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mystify_(Passive)",
+    "name": "Mystify",
+    "passive": true
+  },
+  {
+    "id": 376,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Mythic_(Ultimate)",
+    "name": "Mythic",
+    "passive": true
+  },
+  {
+    "id": 377,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Napalm_(Ultimate)",
+    "name": "Napalm",
+    "passive": true
+  },
+  {
+    "id": 378,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Nature%27s_Wrath_(Passive)",
+    "name": "Nature's Wrath",
+    "passive": true
+  },
+  {
+    "id": 379,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Necromancy_(Passive)",
+    "name": "Necromancy",
+    "passive": true
+  },
+  {
+    "id": 380,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Neutral_Affinity_(Passive)",
+    "name": "Neutral Affinity",
+    "passive": true
+  },
+  {
+    "id": 381,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Observe_(Passive)",
+    "name": "Observe",
+    "passive": true
+  },
+  {
+    "id": 382,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Occult_Power_(Skill)",
+    "name": "Occult Power",
+    "passive": false
+  },
+  {
+    "id": 383,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Optimal_Performance_(Passive)",
+    "name": "Optimal Performance",
+    "passive": true
+  },
+  {
+    "id": 384,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Outlast_(Passive)",
+    "name": "Outlast",
+    "passive": true
+  },
+  {
+    "id": 385,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Overcast_(Passive)",
+    "name": "Overcast",
+    "passive": true
+  },
+  {
+    "id": 386,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Pecking_Order_(Passive)",
+    "name": "Pecking Order",
+    "passive": true
+  },
+  {
+    "id": 387,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Phalanx_(Skill)",
+    "name": "Phalanx",
+    "passive": false
+  },
+  {
+    "id": 388,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Phoenix_Affinity_(Passive)",
+    "name": "Phoenix Affinity",
+    "passive": true
+  },
+  {
+    "id": 389,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Phoenix_Heritage_(Passive)",
+    "name": "Phoenix Heritage",
+    "passive": true
+  },
+  {
+    "id": 390,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Pinch_(Skill)",
+    "name": "Pinch",
+    "passive": false
+  },
+  {
+    "id": 391,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Plague_(Passive)",
+    "name": "Plague",
+    "passive": true
+  },
+  {
+    "id": 392,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Poison_Bomb_(Skill)",
+    "name": "Poison Bomb",
+    "passive": false
+  },
+  {
+    "id": 393,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Poison_Cloud_(Skill)",
+    "name": "Poison Cloud",
+    "passive": false
+  },
+  {
+    "id": 394,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Poison_Eater_(Skill)",
+    "name": "Poison Eater",
+    "passive": false
+  },
+  {
+    "id": 395,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Poison_Glands_(Passive)",
+    "name": "Poison Glands",
+    "passive": true
+  },
+  {
+    "id": 396,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Poisoned_Nerves_(Passive)",
+    "name": "Poisoned Nerves",
+    "passive": true
+  },
+  {
+    "id": 397,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Poisoning_Soil_(Passive)",
+    "name": "Poisoning Soil",
+    "passive": true
+  },
+  {
+    "id": 398,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Polar_Winds_(Ultimate)",
+    "name": "Polar Winds",
+    "passive": true
+  },
+  {
+    "id": 399,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Polluted_Water_(Passive)",
+    "name": "Polluted Water",
+    "passive": true
+  },
+  {
+    "id": 400,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Potion_Mastery_(Passive)",
+    "name": "Potion Mastery",
+    "passive": true
+  },
+  {
+    "id": 401,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Power_(Skill)",
+    "name": "Power",
+    "passive": false
+  },
+  {
+    "id": 402,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Power_Focus_(Skill)",
+    "name": "Power Focus",
+    "passive": false
+  },
+  {
+    "id": 403,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Power_Healing_(Passive)",
+    "name": "Power Healing",
+    "passive": true
+  },
+  {
+    "id": 404,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Precision_(Passive)",
+    "name": "Precision",
+    "passive": true
+  },
+  {
+    "id": 405,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Preemptive_Shield_(Passive)",
+    "name": "Preemptive Shield",
+    "passive": true
+  },
+  {
+    "id": 406,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Prehistoric_Screech_(Passive)",
+    "name": "Prehistoric Screech",
+    "passive": true
+  },
+  {
+    "id": 407,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Preparation_(Passive)",
+    "name": "Preparation",
+    "passive": true
+  },
+  {
+    "id": 408,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Primal_Rage_(Passive)",
+    "name": "Primal Rage",
+    "passive": true
+  },
+  {
+    "id": 409,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Proliferate_(Passive)",
+    "name": "Proliferate",
+    "passive": true
+  },
+  {
+    "id": 410,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Protect_(Skill)",
+    "name": "Protect",
+    "passive": false
+  },
+  {
+    "id": 411,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Protected_Offense_(Passive)",
+    "name": "Protected Offense",
+    "passive": true
+  },
+  {
+    "id": 412,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Protector_(Passive)",
+    "name": "Protector",
+    "passive": true
+  },
+  {
+    "id": 413,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Psychokinesis_(Skill)",
+    "name": "Psychokinesis",
+    "passive": false
+  },
+  {
+    "id": 414,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Punch_Combo_(Skill)",
+    "name": "Punch Combo",
+    "passive": false
+  },
+  {
+    "id": 415,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Punishment_(Passive)",
+    "name": "Punishment",
+    "passive": true
+  },
+  {
+    "id": 416,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Purify_(Passive)",
+    "name": "Purify",
+    "passive": true
+  },
+  {
+    "id": 417,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Pyro_Cracker_(Skill)",
+    "name": "Pyro Cracker",
+    "passive": false
+  },
+  {
+    "id": 418,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Quicken_(Skill)",
+    "name": "Quicken",
+    "passive": false
+  },
+  {
+    "id": 419,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ram_Charge_(Ultimate)",
+    "name": "Ram Charge",
+    "passive": true
+  },
+  {
+    "id": 420,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Rampage_(Passive)",
+    "name": "Rampage",
+    "passive": true
+  },
+  {
+    "id": 421,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Reborn_from_Ashes_(Passive)",
+    "name": "Reborn from Ashes",
+    "passive": true
+  },
+  {
+    "id": 422,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Recover_(Passive)",
+    "name": "Recover",
+    "passive": true
+  },
+  {
+    "id": 423,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Recuperate_(Passive)",
+    "name": "Recuperate",
+    "passive": true
+  },
+  {
+    "id": 424,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Reflect_(Passive)",
+    "name": "Reflect",
+    "passive": true
+  },
+  {
+    "id": 425,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Regeneration_(Skill)",
+    "name": "Regeneration",
+    "passive": false
+  },
+  {
+    "id": 426,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Regeneration_Shield_(Passive)",
+    "name": "Regeneration Shield",
+    "passive": true
+  },
+  {
+    "id": 427,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Rejuvenate_(Skill)",
+    "name": "Rejuvenate",
+    "passive": false
+  },
+  {
+    "id": 428,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Remunerate_(Passive)",
+    "name": "Remunerate",
+    "passive": true
+  },
+  {
+    "id": 429,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Replenish_(Ultimate)",
+    "name": "Replenish",
+    "passive": true
+  },
+  {
+    "id": 430,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Restoration_(Passive)",
+    "name": "Restoration",
+    "passive": true
+  },
+  {
+    "id": 431,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Restore_(Skill)",
+    "name": "Restore",
+    "passive": false
+  },
+  {
+    "id": 432,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Restoring_Shield_(Skill)",
+    "name": "Restoring Shield",
+    "passive": false
+  },
+  {
+    "id": 433,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Revenge_(Passive)",
+    "name": "Revenge",
+    "passive": true
+  },
+  {
+    "id": 434,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Revive_(Skill)",
+    "name": "Revive",
+    "passive": false
+  },
+  {
+    "id": 435,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ring_Focus_(Passive)",
+    "name": "Ring Focus",
+    "passive": true
+  },
+  {
+    "id": 436,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Riot_(Skill)",
+    "name": "Riot",
+    "passive": false
+  },
+  {
+    "id": 437,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Rocket_Launch_(Ultimate)",
+    "name": "Rocket Launch",
+    "passive": true
+  },
+  {
+    "id": 438,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Saboteur%27s_Shield_(Passive)",
+    "name": "Saboteur's Shield",
+    "passive": true
+  },
+  {
+    "id": 439,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Safecast_(Skill)",
+    "name": "Safecast",
+    "passive": false
+  },
+  {
+    "id": 440,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Scent_of_Blood_(Passive)",
+    "name": "Scent of Blood",
+    "passive": true
+  },
+  {
+    "id": 441,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sensitivity_(Passive)",
+    "name": "Sensitivity",
+    "passive": true
+  },
+  {
+    "id": 442,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Severe_Cuts_(Skill)",
+    "name": "Severe Cuts",
+    "passive": false
+  },
+  {
+    "id": 443,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Severe_Hit_(Passive)",
+    "name": "Severe Hit",
+    "passive": true
+  },
+  {
+    "id": 444,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Severe_Upkeep_(Passive)",
+    "name": "Severe Upkeep",
+    "passive": true
+  },
+  {
+    "id": 445,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shadow_Grasp_(Skill)",
+    "name": "Shadow Grasp",
+    "passive": false
+  },
+  {
+    "id": 446,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shadow_Storm_(Skill)",
+    "name": "Shadow Storm",
+    "passive": false
+  },
+  {
+    "id": 447,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shared_Barrier_(Passive)",
+    "name": "Shared Barrier",
+    "passive": true
+  },
+  {
+    "id": 448,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shared_Might_(Passive)",
+    "name": "Shared Might",
+    "passive": true
+  },
+  {
+    "id": 449,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shared_Regeneration_(Passive)",
+    "name": "Shared Regeneration",
+    "passive": true
+  },
+  {
+    "id": 450,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shared_Sorcery_(Passive)",
+    "name": "Shared Sorcery",
+    "passive": true
+  },
+  {
+    "id": 451,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shatter_(Passive)",
+    "name": "Shatter",
+    "passive": true
+  },
+  {
+    "id": 452,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sheltered_(Passive)",
+    "name": "Sheltered",
+    "passive": true
+  },
+  {
+    "id": 453,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sheltered_Nature_(Passive)",
+    "name": "Sheltered Nature",
+    "passive": true
+  },
+  {
+    "id": 454,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shield_(Skill)",
+    "name": "Shield",
+    "passive": false
+  },
+  {
+    "id": 455,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shield_Aura_(Passive)",
+    "name": "Shield Aura",
+    "passive": true
+  },
+  {
+    "id": 456,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shield_Burst_(Skill)",
+    "name": "Shield Burst",
+    "passive": false
+  },
+  {
+    "id": 457,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shield_Crush_(Passive)",
+    "name": "Shield Crush",
+    "passive": true
+  },
+  {
+    "id": 458,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shieldcast_(Skill)",
+    "name": "Shieldcast",
+    "passive": false
+  },
+  {
+    "id": 459,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shielding_Leaves_(Skill)",
+    "name": "Shielding Leaves",
+    "passive": false
+  },
+  {
+    "id": 460,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shock_Charging_(Passive)",
+    "name": "Shock Charging",
+    "passive": true
+  },
+  {
+    "id": 461,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shocking_Current_(Passive)",
+    "name": "Shocking Current",
+    "passive": true
+  },
+  {
+    "id": 462,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shocking_Hit_(Passive)",
+    "name": "Shocking Hit",
+    "passive": true
+  },
+  {
+    "id": 463,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shocking_Slash_(Skill)",
+    "name": "Shocking Slash",
+    "passive": false
+  },
+  {
+    "id": 464,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shred_(Skill)",
+    "name": "Shred",
+    "passive": false
+  },
+  {
+    "id": 465,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Shroud_(Skill)",
+    "name": "Shroud",
+    "passive": false
+  },
+  {
+    "id": 466,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sidekick_(Skill)",
+    "name": "Sidekick",
+    "passive": false
+  },
+  {
+    "id": 467,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Single_Strike_(Passive)",
+    "name": "Single Strike",
+    "passive": true
+  },
+  {
+    "id": 468,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Slash_(Skill)",
+    "name": "Slash",
+    "passive": false
+  },
+  {
+    "id": 469,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Slime_Infestation_(Passive)",
+    "name": "Slime Infestation",
+    "passive": true
+  },
+  {
+    "id": 470,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Slime_Shot_(Skill)",
+    "name": "Slime Shot",
+    "passive": false
+  },
+  {
+    "id": 471,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Slime_Volley_(Skill)",
+    "name": "Slime Volley",
+    "passive": false
+  },
+  {
+    "id": 472,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Slime-ageddon_(Ultimate)",
+    "name": "Slime-ageddon",
+    "passive": true
+  },
+  {
+    "id": 473,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Slimy_Support_(Passive)",
+    "name": "Slimy Support",
+    "passive": true
+  },
+  {
+    "id": 474,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Snow_Veil_(Skill)",
+    "name": "Snow Veil",
+    "passive": false
+  },
+  {
+    "id": 475,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Snowball_Toss_(Skill)",
+    "name": "Snowball Toss",
+    "passive": false
+  },
+  {
+    "id": 476,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Solar_Blaze_(Ultimate)",
+    "name": "Solar Blaze",
+    "passive": true
+  },
+  {
+    "id": 477,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Solar_Burst_(Skill)",
+    "name": "Solar Burst",
+    "passive": false
+  },
+  {
+    "id": 478,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Solar_Rays_(Skill)",
+    "name": "Solar Rays",
+    "passive": false
+  },
+  {
+    "id": 479,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sonic_Assault_(Skill)",
+    "name": "Sonic Assault",
+    "passive": false
+  },
+  {
+    "id": 480,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sonic_Wave_(Skill)",
+    "name": "Sonic Wave",
+    "passive": false
+  },
+  {
+    "id": 481,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sorcerer_(Passive)",
+    "name": "Sorcerer",
+    "passive": true
+  },
+  {
+    "id": 482,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sorcery_(Skill)",
+    "name": "Sorcery",
+    "passive": false
+  },
+  {
+    "id": 483,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Soul_Beam_(Skill)",
+    "name": "Soul Beam",
+    "passive": false
+  },
+  {
+    "id": 484,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spark_Shower_(Skill)",
+    "name": "Spark Shower",
+    "passive": false
+  },
+  {
+    "id": 485,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spectral_Cannon_(Skill)",
+    "name": "Spectral Cannon",
+    "passive": false
+  },
+  {
+    "id": 486,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spectral_Flame_(Skill)",
+    "name": "Spectral Flame",
+    "passive": false
+  },
+  {
+    "id": 487,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spectral_Wave_(Skill)",
+    "name": "Spectral Wave",
+    "passive": false
+  },
+  {
+    "id": 488,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spellshield_(Skill)",
+    "name": "Spellshield",
+    "passive": false
+  },
+  {
+    "id": 489,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spiky_Defense_(Passive)",
+    "name": "Spiky Defense",
+    "passive": true
+  },
+  {
+    "id": 490,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spirit_Strength_(Passive)",
+    "name": "Spirit Strength",
+    "passive": true
+  },
+  {
+    "id": 491,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spirit_World_(Passive)",
+    "name": "Spirit World",
+    "passive": true
+  },
+  {
+    "id": 492,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Splatter_(Passive)",
+    "name": "Splatter",
+    "passive": true
+  },
+  {
+    "id": 493,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spore_(Skill)",
+    "name": "Spore",
+    "passive": false
+  },
+  {
+    "id": 494,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spore_Cloud_(Skill)",
+    "name": "Spore Cloud",
+    "passive": false
+  },
+  {
+    "id": 495,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Spore_Nebula_(Ultimate)",
+    "name": "Spore Nebula",
+    "passive": true
+  },
+  {
+    "id": 496,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sprawl_(Passive)",
+    "name": "Sprawl",
+    "passive": true
+  },
+  {
+    "id": 497,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Stampede_(Passive)",
+    "name": "Stampede",
+    "passive": true
+  },
+  {
+    "id": 498,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Static_(Passive)",
+    "name": "Static",
+    "passive": true
+  },
+  {
+    "id": 499,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Static_Glory_(Passive)",
+    "name": "Static Glory",
+    "passive": true
+  },
+  {
+    "id": 500,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Static_Mass_(Passive)",
+    "name": "Static Mass",
+    "passive": true
+  },
+  {
+    "id": 501,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Steampunk_(Passive)",
+    "name": "Steampunk",
+    "passive": true
+  },
+  {
+    "id": 502,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sticky_Impact_(Passive)",
+    "name": "Sticky Impact",
+    "passive": true
+  },
+  {
+    "id": 503,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sticky_Threads_(Skill)",
+    "name": "Sticky Threads",
+    "passive": false
+  },
+  {
+    "id": 504,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sticky_Web_(Skill)",
+    "name": "Sticky Web",
+    "passive": false
+  },
+  {
+    "id": 505,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Stone_Rain_(Skill)",
+    "name": "Stone Rain",
+    "passive": false
+  },
+  {
+    "id": 506,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Stunned_(Passive)",
+    "name": "Stunned",
+    "passive": true
+  },
+  {
+    "id": 507,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sub_Zero_(Passive)",
+    "name": "Sub Zero",
+    "passive": true
+  },
+  {
+    "id": 508,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Supercharged_(Passive)",
+    "name": "Supercharged",
+    "passive": true
+  },
+  {
+    "id": 509,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Supply_(Passive)",
+    "name": "Supply",
+    "passive": true
+  },
+  {
+    "id": 510,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Support_(Skill)",
+    "name": "Support",
+    "passive": false
+  },
+  {
+    "id": 511,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sure_Strike_(Passive)",
+    "name": "Sure Strike",
+    "passive": true
+  },
+  {
+    "id": 512,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sustain_(Skill)",
+    "name": "Sustain",
+    "passive": false
+  },
+  {
+    "id": 513,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Sustained_Heal_(Ultimate)",
+    "name": "Sustained Heal",
+    "passive": true
+  },
+  {
+    "id": 514,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Tackle_(Skill)",
+    "name": "Tackle",
+    "passive": false
+  },
+  {
+    "id": 515,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Tailwind_(Passive)",
+    "name": "Tailwind",
+    "passive": true
+  },
+  {
+    "id": 516,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Taunt_(Passive)",
+    "name": "Taunt",
+    "passive": true
+  },
+  {
+    "id": 517,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Teamplay_(Skill)",
+    "name": "Teamplay",
+    "passive": false
+  },
+  {
+    "id": 518,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Tectonic_Spikes_(Ultimate)",
+    "name": "Tectonic Spikes",
+    "passive": true
+  },
+  {
+    "id": 519,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Templar_(Skill)",
+    "name": "Templar",
+    "passive": false
+  },
+  {
+    "id": 520,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Thick_Skin_(Passive)",
+    "name": "Thick Skin",
+    "passive": true
+  },
+  {
+    "id": 521,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Thorns_(Passive)",
+    "name": "Thorns",
+    "passive": true
+  },
+  {
+    "id": 522,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Thunder_Strike_(Skill)",
+    "name": "Thunder Strike",
+    "passive": false
+  },
+  {
+    "id": 523,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Thunderstorm_(Skill)",
+    "name": "Thunderstorm",
+    "passive": false
+  },
+  {
+    "id": 524,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Tidal_Wave_(Skill)",
+    "name": "Tidal Wave",
+    "passive": false
+  },
+  {
+    "id": 525,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Tornado_(Ultimate)",
+    "name": "Tornado",
+    "passive": true
+  },
+  {
+    "id": 526,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Toxic_Feedback_(Passive)",
+    "name": "Toxic Feedback",
+    "passive": true
+  },
+  {
+    "id": 527,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Toxic_Reaction_(Passive)",
+    "name": "Toxic Reaction",
+    "passive": true
+  },
+  {
+    "id": 528,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Toxic_Slam_(Skill)",
+    "name": "Toxic Slam",
+    "passive": false
+  },
+  {
+    "id": 529,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Toxic_Slash_(Skill)",
+    "name": "Toxic Slash",
+    "passive": false
+  },
+  {
+    "id": 530,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Toxin_(Passive)",
+    "name": "Toxin",
+    "passive": true
+  },
+  {
+    "id": 531,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Tranquility_(Passive)",
+    "name": "Tranquility",
+    "passive": true
+  },
+  {
+    "id": 532,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Transfusion_(Passive)",
+    "name": "Transfusion",
+    "passive": true
+  },
+  {
+    "id": 533,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Trickster_Buffing_(Passive)",
+    "name": "Trickster Buffing",
+    "passive": true
+  },
+  {
+    "id": 534,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Trickster_Spirit_(Passive)",
+    "name": "Trickster Spirit",
+    "passive": true
+  },
+  {
+    "id": 535,
+    "link": "https://monster-sanctuary.fandom.com/wiki/True_Darkness_(Passive)",
+    "name": "True Darkness",
+    "passive": true
+  },
+  {
+    "id": 536,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Tsunami_(Ultimate)",
+    "name": "Tsunami",
+    "passive": true
+  },
+  {
+    "id": 537,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Typhoon_Cut_(Ultimate)",
+    "name": "Typhoon Cut",
+    "passive": true
+  },
+  {
+    "id": 538,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Ultra_Speed_(Ultimate)",
+    "name": "Ultra Speed",
+    "passive": true
+  },
+  {
+    "id": 539,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Variety_(Passive)",
+    "name": "Variety",
+    "passive": true
+  },
+  {
+    "id": 540,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Volatile_Shield_(Passive)",
+    "name": "Volatile Shield",
+    "passive": true
+  },
+  {
+    "id": 541,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Voltage_(Skill)",
+    "name": "Voltage",
+    "passive": false
+  },
+  {
+    "id": 542,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Warcast_(Skill)",
+    "name": "Warcast",
+    "passive": false
+  },
+  {
+    "id": 543,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Warlock_Healing_(Passive)",
+    "name": "Warlock Healing",
+    "passive": true
+  },
+  {
+    "id": 544,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Water_Affinity_(Passive)",
+    "name": "Water Affinity",
+    "passive": true
+  },
+  {
+    "id": 545,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Water_Allegiance_(Passive)",
+    "name": "Water Allegiance",
+    "passive": true
+  },
+  {
+    "id": 546,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Water_Surge_(Skill)",
+    "name": "Water Surge",
+    "passive": false
+  },
+  {
+    "id": 547,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Weaken_(Passive)",
+    "name": "Weaken",
+    "passive": true
+  },
+  {
+    "id": 548,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Weakening_Crush_(Passive)",
+    "name": "Weakening Crush",
+    "passive": true
+  },
+  {
+    "id": 549,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Weakening_Shield_(Skill)",
+    "name": "Weakening Shield",
+    "passive": false
+  },
+  {
+    "id": 550,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Weapon_Break_(Passive)",
+    "name": "Weapon Break",
+    "passive": true
+  },
+  {
+    "id": 551,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Weaponry_(Passive)",
+    "name": "Weaponry",
+    "passive": true
+  },
+  {
+    "id": 552,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Whirlpool_(Skill)",
+    "name": "Whirlpool",
+    "passive": false
+  },
+  {
+    "id": 553,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Whirlwind_(Skill)",
+    "name": "Whirlwind",
+    "passive": false
+  },
+  {
+    "id": 554,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Wildfire_(Passive)",
+    "name": "Wildfire",
+    "passive": true
+  },
+  {
+    "id": 555,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Wildlife_Conservation_(Passive)",
+    "name": "Wildlife Conservation",
+    "passive": true
+  },
+  {
+    "id": 556,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Wind_Affinity_(Passive)",
+    "name": "Wind Affinity",
+    "passive": true
+  },
+  {
+    "id": 557,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Wind_Allegiance_(Passive)",
+    "name": "Wind Allegiance",
+    "passive": true
+  },
+  {
+    "id": 558,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Wizardry_(Skill)",
+    "name": "Wizardry",
+    "passive": false
+  },
+  {
+    "id": 559,
+    "link": "https://monster-sanctuary.fandom.com/wiki/Worm_Troop_(Passive)",
+    "name": "Worm Troop",
+    "passive": true
+  }
+]
