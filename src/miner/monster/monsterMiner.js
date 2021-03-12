@@ -1,7 +1,7 @@
 // @ts-nocheck
 var Nightmare = require('nightmare');
 const nightmareDebugConfig = { show: true, openDevTools: true, executionTimeout: 90000000 }
-const nightmareConf = {}
+const nightmareConf = { }
 let nightmare = Nightmare(nightmareConf)
 
 const fs = require('fs');
@@ -10,12 +10,11 @@ var path = require('path');
 const WIKI_URL = 'https://monster-sanctuary.fandom.com/wiki/';
 
 const MONSTER_PREFIX = 'Monsters';
-const SKILLINFO_PREFIX = 'Category:Skills';
 
 
 
 function scrapMonsters(){
-  const monsters: Object[] = [];
+  const monsters = [];
   const currentRows = document.querySelectorAll('.monstertable tbody tr');
   currentRows.forEach(row => {
     const monster = new Object();
@@ -29,7 +28,7 @@ function scrapMonsters(){
         //image
         monster.icon = td.firstChild.dataset.src;
       } else if (i == 2) {
-        monster.name = td.textcontent
+        monster.name = td.innerText
         monster.link = td.firstChild.href
 
       } else {
@@ -52,7 +51,7 @@ function getMonsters() {
       .wait('.monstertable')
       .evaluate(scrapMonsters)
       .end()
-      .then((monsters: any[]) => {
+      .then((monsters) => {
         const size = 1 //monsters.length;
         for (let i = 0; i < size; i++) {
           nightmare = Nightmare()
@@ -81,8 +80,8 @@ function getMonsterIcons(monster){
 }
 
 
-function writeJson(fileName: string, data: string) {
-  fs.writeFileSync(path.join(__dirname, '../../data', fileName), data);
+function writeJson(fileName, data) {
+  fs.writeFileSync(path.join(__dirname, '../../../data', fileName), data);
 }
 
 getMonsters();

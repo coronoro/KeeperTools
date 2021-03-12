@@ -1,7 +1,7 @@
-import { Monster } from "../../model/monster";
-import { SkillTree } from "../../model/skilltree/skillTree";
-import { SkillTreeNode } from "../../model/skilltree/skillTreeNode";
-import { scrapSkillTrees } from "./skillTreeScraps"
+
+const SkillTree = require("../../model/skilltree/skillTree")
+const SkillTreeNode = require("../../model/skilltree/skillTreeNode")
+const scrapSkillTrees = require("./skillTreeScraps")
 
 
 var Nightmare = require('nightmare');
@@ -15,7 +15,7 @@ var path = require('path');
 
 const skillsData = path.join(__dirname, '../../../data/skillsRef.json')
 let rawdata = fs.readFileSync(skillsData);
-let skills:any[] = JSON.parse(rawdata);
+let skills = JSON.parse(rawdata);
 
 const skillNameMap = new Map();
 skills.forEach(skill => {
@@ -26,8 +26,6 @@ skills.forEach(skill => {
 const monsterData = path.join(__dirname, '../../../data/monster.json')
 rawdata = fs.readFileSync(monsterData);
 let monsters = JSON.parse(rawdata);
-
-const length = monsters.length;
 
 run();
 
@@ -51,25 +49,25 @@ function run() {
   }
 }
 
-function getSKillTree(monster: Monster){
+function getSKillTree(monster){
   return new Promise((resolve, reject) => {
      nightmare
       .goto(monster.link)
       .wait('.skilltreetable img')
       .evaluate(scrapSkillTrees)
-      .then((data:string) => {
+      .then((data) => {
 
         console.log(`parsed tree for monster ${monster.id}`)
-        const parsed: any[] = JSON.parse(data)
+        const parsed = JSON.parse(data)
 
-        const trees: SkillTree[] = []
+        const trees = []
 
         parsed.forEach(parsedTree => {
           const tree = new SkillTree();
           let nodeId = 0;
           for (let i = 0; i < parsedTree.skills.length; i++) {
             const skillTreeRow = parsedTree.skills[i];
-            skillTreeRow.forEach((skillTreeNode: any) => {
+            skillTreeRow.forEach((skillTreeNode) => {
               let currentParsedInfo = skillTreeNode.skillInfo;
               const node = new SkillTreeNode();
               node.id = nodeId
@@ -82,7 +80,7 @@ function getSKillTree(monster: Monster){
               }
               node.level = i;
               node.parents = [];
-              skillTreeNode.parents.forEach((parent:any) => {
+              skillTreeNode.parents.forEach((parent) => {
                 const parentSKillInfo = skillNameMap.get(parent.skillInfo.name.toLowerCase());
                 // passives dont get new skills
                 if (parentSKillInfo) {
@@ -116,20 +114,20 @@ function getSKillTree(monster: Monster){
 }
 
 
-function writeJson(fileName:string, data:string) {
+function writeJson(fileName, data) {
   fs.writeFileSync(path.join(__dirname, '../../../data', fileName), data);
 }
 
-function isNewSkill(skillInfo: any, parents: any): boolean {
+function isNewSkill(skillInfo, parents) {
   let result = true;
-  parents.forEach((parent:any) => {
+  parents.forEach((parent) => {
     if (parent.skillInfo.name.toLowerCase() === skillInfo.name.toLowerCase()) {
       result = false;
     }
   });
   return result
 }
-function isUpgrade(currentParsedInfo: any, parentSKillInfo: any) {
+function isUpgrade(currentParsedInfo, parentSKillInfo) {
   return parentSKillInfo.name.toLowerCase() === currentParsedInfo.name.toLowerCase()
 }
 

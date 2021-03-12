@@ -1,5 +1,5 @@
 // @ts-nocheck
-export function scrapSkillTrees() {
+module.exports = function scrapSkillTrees() {
   const skillTrees = [];
   const skillNameRegex = /(.*?)\((.*)\)/;
   const skillAltNameRegex = /Icon(.*)(.png)/;
