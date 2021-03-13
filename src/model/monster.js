@@ -1,3 +1,4 @@
+const SkillTree = require("./skilltree/skillTree")
 
 module.exports =  class Monster {
 
@@ -15,7 +16,11 @@ module.exports =  class Monster {
     this.name = data.name;
     this.icon = data.icon;
     this.link = data.link;
-    this.skillTrees = data.skillTrees;
+    data.skillTrees.forEach(treeData => {
+      const tree = new SkillTree();
+      tree.fillData(treeData);
+      this.skillTrees.push(tree);
+    });
   }
 
 }

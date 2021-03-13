@@ -16,12 +16,6 @@
       <div class="monster-icon">
         <img :src="monsterData.icon">
       </div>
-      <div 
-        v-if="monsterData.skillTrees"
-        class="monster-skilltree">
-        <skilltree :skillTrees="monsterData.skillTrees">
-        </skilltree>
-      </div>
     </div>
     <div v-else>
       <button @click="monsterModal = true">+</button>
@@ -32,6 +26,14 @@
       <template v-slot:body>
         <search @monsterPicked="setMonster">
         </search>
+      </template>
+    </modal>
+    <modal
+      v-show="skillModal"
+      @close="closeSkillModal">
+      <template v-slot:body>
+        <skilltree :skillTrees="monsterData.skillTrees">
+        </skilltree>
       </template>
     </modal>
   </div>
@@ -49,7 +51,8 @@ export default {
   props: ['monsterData'],
   data() {
     return {
-      monsterModal: false
+      monsterModal: false,
+      skillModal: false
     };
   },
   methods: {
@@ -58,8 +61,13 @@ export default {
       this.monsterData.fillData(data);
       this.$emit('dataChange')
     },
+
     closeMonsterModal(){
       this.monsterModal = false;
+    },
+
+    closeSkillModal(){
+      this.skillModal = false;
     }
   },
   mounted() {
@@ -84,14 +92,6 @@ export default {
 
 .monster-head .button {
   float: right;
-}
-
-.button{
-  display: inline;
-  cursor: pointer;
-  width: 20px;
-  height: 20px;
-  background: #b0bec5;
 }
 
 .monster-icon{

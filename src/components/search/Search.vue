@@ -11,7 +11,9 @@
         v-for="item in visibleData"
         :key="item.id"
         @click="selectMonster(item)">
-        <img :src="item.icon">
+        <img 
+          class="monster-icon" 
+          :src="item.icon">
         <span class="monster-name">
           {{ item.name }}
         </span>
@@ -31,6 +33,7 @@ export default {
       visibleData: [],
       searchString: ''
     };
+
   },
   methods: {
     selectMonster(item){
@@ -58,6 +61,11 @@ export default {
   font-family: 'VT323', monospace;
 }
 
+.search-input{
+  display: block;
+  margin-bottom: 20px;
+}
+
 .search-list{
   overflow-x: visible;
   overflow-y: auto;
@@ -67,11 +75,27 @@ export default {
 .list-item{
   cursor: pointer;
   margin: 2px;
-  padding: 5px;
+  padding: 5px 20px;
   color: black;
+  display: flex;
+  width: 300px;
+  height: 80px;
+  justify-content: space-between;
 }
 
 .list-item:hover{
   background: #5e6f80;
+}
+
+.list-item img{
+  width: 80px;
+  object-fit: contain;
+}
+
+.list-item .monster-name{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 </style>

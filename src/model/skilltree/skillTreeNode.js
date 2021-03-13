@@ -7,4 +7,11 @@ module.exports = class SkillTreeNode {
     this.parents = []
     this.skillInfoId = -1
   }
+
+  fillData(nodeData){
+    this.id = nodeData.id
+    this.level = nodeData.level
+    this.parents = nodeData.parents
+    this.skillInfoId = nodeData.skillInfoId
+  }
 }

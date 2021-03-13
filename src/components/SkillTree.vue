@@ -1,35 +1,32 @@
 <template>
   <div class="skilltrees">
     <div 
-      v-for="tree in skillTrees"
-      :key="tree"
+      v-for="(tree, idx) in skillTrees"
+      :key="idx"
       class="tree">
       <div 
-        v-for="skillNode in treeSkills(tree)"
-        :key="skillNode.id">
-        <div class="tree-node">
-          {{skillName(skillNode)}}
+        v-for="skillNodes in treeSkills(tree)"
+        :key="skillNodes.id"
+        class="tree-row">
+        <div
+          v-for="node in skillNodes"
+          :key="node.id"
+          class="tree-node-wrapper">
+          <skill-tree-node :skillTreeNode="node"></skill-tree-node>
         </div>
       </div>
     </div>
-    <modal
-      v-show="monsterModal"
-      @close="closeMonsterModal">
-      <template v-slot:body>
-
-      </template>
-    </modal>
   </div>
 </template>
 
 <script>
-import modal from './modal/Modal.vue';
 import service from '../services/DataService';
+import SkillTreeNode from './SkillTreeNode.vue';
 
 
 export default {
   name: "SkillTreeView",
-  components: {modal},
+  components: { SkillTreeNode},
   props: ['skillTrees'],
   data() {
     return {
@@ -39,12 +36,18 @@ export default {
   },
   methods: {
     treeSkills(tree){
+
       const result = [];
       const maxSkillTreeLevel = 4
       for (let i = 0; i < maxSkillTreeLevel; i++) {
         result[i] = tree.getNodesByLevel(i)
       }
       return result;
+    },
+
+    skillIcon(node){
+      const skillInfo = service.findSkill(node.skillInfoId);
+      return skillInfo.icon
     },
 
     skillName(node){
@@ -61,5 +64,19 @@ export default {
 <style>
 .skilltrees {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.tree {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.tree-row{
+  display: flex;
+  justify-content: center;
+  padding: 2px;
 }
 </style>

@@ -7,7 +7,7 @@
           <div class="modal-header">
             <slot name="header">
               <div
-                class="modal-close"
+                class="button modal-close"
                 @click="close">
                 <i class="fas fa-times"></i>
               </div>
@@ -66,6 +66,8 @@ export default {
   vertical-align: middle;
   max-height: 85%;
   overflow: hidden;
+  top: 50px;
+  position: relative;
 }
 
 .modal-container {
@@ -94,20 +96,6 @@ export default {
 
 .modal-default-button {
   float: right;
-}
-
-.modal-close{
-  cursor: pointer;
-  width: 20px;
-  height: 20px;
-  background: #b0bec5;
-  border-image: url(https://vignette.wikia.nocookie.net/monster-sanctuary/images/3/3b/WhiteBorder.png) 6 stretch;
-  border-width: 6px;
-  border-style: solid;
-}
-
-.modal-close:hover{
-  background: #90a4ae;
 }
 
 /** vue  */

@@ -62,6 +62,7 @@ function loadSkills() {
             writeJson('skills.json', JSON.stringify(result))
           })
         } catch (error) {
+          console.log(error)
         }
       })
   } catch (e) {

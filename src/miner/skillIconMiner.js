@@ -6,6 +6,7 @@ let nightmare = Nightmare( nightmareConf );
 const fs = require('fs');
 var path = require('path');
 
+const iconRegex = /.*latest\//
 
 const skillsData = path.join(__dirname, '../../data/skills.json')
 let rawdata = fs.readFileSync(skillsData);
@@ -38,23 +39,38 @@ function writeJson(fileName, data) {
 }
 
 
+function scrapIcons(name){
+  var images = document.querySelectorAll('.table-wrapper .blueborder img');
+  for (let i = 0; i < images.length; i++) {
+    const image = images[i];
+    const alt = image.alt.toLowerCase();
+    debugger
+    if (alt.indexOf(name.toLowerCase()) > 0) {
+      return image.currentSrc;
+    }   
+  }
+  return images[1].currentSrc
+}
+
 
 function getSkillIcon(skill){
   return new Promise((resolve, reject) => {
+    const name = skill.name;
     try {
     nightmare
       .goto(skill.link)
       .wait('.table-wrapper .blueborder img')
-      .evaluate(() => {
-        debugger
-        var images = document.querySelectorAll('.table-wrapper .blueborder img');
-        return images[0].currentSrc
-      })
+      .evaluate(scrapIcons, name)
       .then(data => {
-        console.log(`got url ${data} for skill #${skill.id}`);
-        skill.icon = data;
-        refinedSkills.push(skill);
-        resolve();
+        const matches = iconRegex.exec(data);
+        if (matches) {
+          console.log(`got url ${matches[0]} for skill #${skill.id}`);
+          skill.icon = matches[0];
+          refinedSkills.push(skill);
+          resolve();
+        }else{
+          reject();
+        }
         
       });
     } catch (e) {
@@ -62,10 +78,4 @@ function getSkillIcon(skill){
       console.error(e);
     }
   });
-}
-
-
-
-function writeJson(fileName, data) {
-  fs.writeFileSync(path.join(__dirname, '../../data', fileName), data);
 }

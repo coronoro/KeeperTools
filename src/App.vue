@@ -42,3 +42,24 @@ export default {
   }
 };
 </script>
+
+<style>
+
+.button{
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    background: #b0bec5;
+    -o-border-image: url(https://vignette.wikia.nocookie.net/monster-sanctuary/images/3/3b/WhiteBorder.png) 6 stretch;
+    border-image: url(https://vignette.wikia.nocookie.net/monster-sanctuary/images/3/3b/WhiteBorder.png) 6 stretch;
+    border-width: 4px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+}
+
+.button:hover{
+  background: #90a4ae;
+}
+
+</style>
