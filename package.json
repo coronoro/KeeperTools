@@ -8,7 +8,8 @@
     "loadMonsters": "node src/miner/monster/monsterMiner.js",
     "loadSkills": "node src/miner/skillMiner.js",
     "loadSkillIcons": "node src/miner/skillIconMiner.js",
-    "loadSkillTrees": "node src/miner/skillTree/skillTreeMiner.js"
+    "loadSkillTrees": "node src/miner/skillTree/skillTreeMiner.js",
+    "deploy": "node gh-pages-deploy.js"
   },
   "author": "coronoro",
   "license": "ISC",
