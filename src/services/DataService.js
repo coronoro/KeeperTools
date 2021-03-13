@@ -1,7 +1,7 @@
 import Monster from '../model/monster';
 import SkillInfo from '../model/skilltree/skillInfo';
-var skills = require('../../data/skillsRef.json');
-var monsters = require('../../data/skilltrees.json');
+var skills = require('../data/skillsRef.json');
+var monsters = require('../data/skilltrees.json');
 
 class DataService{
 

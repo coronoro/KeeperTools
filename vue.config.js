@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: '/KeeperTools/'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/KeeperTools/'
+    : '/'
 }
