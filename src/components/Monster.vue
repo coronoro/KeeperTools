@@ -4,11 +4,16 @@
       v-if="monsterData.id >= 0"
       class="monster-wrapper">
       <div class="monster-head">
+        <div 
+          class="button remove-button"
+          @click="remove">
+            <i class="fas fa-eraser"></i>
+        </div>
         <span class="monster-name">
           {{ monsterData.name }}
         </span>
         <div 
-          class="button"
+          class="button edit-button"
           @click="monsterModal = true">
           <i class="fas fa-pen"></i>
         </div>
@@ -17,8 +22,15 @@
         <img :src="monsterData.icon">
       </div>
     </div>
-    <div v-else>
-      <button @click="monsterModal = true">+</button>
+    <div 
+      v-else
+      class="add-wrapper">
+      <div 
+        class="fa-stack fa-2x add-button"
+        @click="monsterModal = true">
+        <i class="fas fa-egg fa-stack-2x"></i>
+        <i class="fas fa-plus fa-stack-1x"></i>
+      </div>
     </div>
     <modal
       v-show="monsterModal"
@@ -43,6 +55,7 @@
 import search from './search/Search.vue';
 import modal from './modal/Modal.vue';
 import skilltree from './SkillTree.vue'
+import Monster from '../model/monster';
 
 
 export default {
@@ -62,6 +75,11 @@ export default {
       this.$emit('dataChange')
     },
 
+    remove(){
+      this.monsterData.fillData(new Monster())
+      this.$emit('dataChange')
+    },
+
     closeMonsterModal(){
       this.monsterModal = false;
     },
@@ -77,6 +95,30 @@ export default {
 </script>
 
 <style>
+
+.monster {
+  height: 100%;
+}
+
+.add-wrapper{
+  height: 100%;
+}
+
+.add-button{
+  width: 100%;
+  vertical-align: middle;
+  height: 100%;
+  opacity: 0.6;
+}
+
+.add-button:hover{
+  opacity: 1;
+}
+
+.add-button:hover .fa-plus{
+  color: #334454;
+}
+
 .monster-wrapper {
   display: flex;
   flex-direction: column;
@@ -88,19 +130,24 @@ export default {
   text-align: center;
 }
 
-
-
-.monster-head .button {
+.monster-head .edit-button {
   float: right;
 }
 
-.monster-icon{
-  margin: 5px;
-  display: flex;
+.monster-head .remove-button{
+  float: left;;
 }
 
-.monster-icon img{
+.monster-wrapper .monster-icon{
+  margin: 5px;
+  display: flex;
+  height: 125px;
+}
+
+.monster-wrapper .monster-icon img{
   margin: auto;
+  object-fit: contain;
+  height: 100%;
 }
 
 </style>

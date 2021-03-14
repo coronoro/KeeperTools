@@ -55,6 +55,7 @@ export default {
     border-style: solid;
     display: flex;
     justify-content: center;
+    color: #0e59a0;
 }
 
 .button:hover{
