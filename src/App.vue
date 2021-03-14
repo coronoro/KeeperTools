@@ -16,8 +16,7 @@
     </nav>
 
     <div class="container mt-3">
-      <router-view
-        v-on="$listeners" />
+      <router-view/>
     </div>
   </div>
 </template>
